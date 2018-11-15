@@ -1,0 +1,136 @@
+VUE
+name: VUE购物车实战
+state:学习中
+href:https://www.imooc.com/video/14040
+
+name:Vue+Webpack打造todo应用
+state:未学习
+href:http://www.imooc.com/learn/935
+
+name:Vue2.5开发去哪儿网App 从零基础入门到实战项目
+state:未学习
+href:http://coding.imooc.com/class/203.html
+
+name:Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲
+state:未学习
+href:http://coding.imooc.com/class/196.html
+
+name:热门框架Vue开发WebApp
+state:未学习
+href:http://class.imooc.com/sc/42/series
+
+name:在线商城项目-six淘
+state:未学习
+href:https://www.jianshu.com/p/73b518ba9897  https://coding.imooc.com/class/113.html
+
+name:
+state:
+href:
+
+JS
+name:fiddler工具与使用
+state: no
+href:https://www.imooc.com/learn/37
+
+name:高级前端架构设计
+state:under studying
+href:https://www.imooc.com/video/3548
+
+name:ruissia rocks
+state: studying
+href: https://www.imooc.com/video/15597
+
+name: ruassia rocks upgrade
+state:no
+href:https://www.imooc.com/learn/885
+
+name:Web rEADER
+state: no
+href:https://www.imooc.com/learn/1038
+
+name:创业公司的Nodejs工程师
+state:no
+href:https://www.imooc.com/learn/728
+
+name:游戏-爱心鱼 1
+state:no
+href:https://www.imooc.com/video/9905
+
+name:游戏-爱心鱼 2
+state:no
+href:https://www.imooc.com/learn/516
+
+name:HTML5和CSS3扁平化风格博客
+state:no
+href:https://www.imooc.com/learn/445
+
+name:全民寻找绿箭侠
+state:no
+href:https://www.imooc.com/video/3274
+
+name:HTML5离线应用实战演练
+state:no
+href:https://www.imooc.com/learn/46
+
+name:项目上线流程
+state:no
+href:https://www.imooc.com/learn/1004
+
+name:ScriptOJ
+state:刷题中
+href:http://scriptoj.mangojuice.top/problems?sort=difficulty&tag=%E7%BB%8F%E5%85%B8%E7%AC%94%E8%AF%95%E9%A2%98&page=1
+
+name: VUE 从零开始
+state:no
+href:https://study.163.com/course/introduction/1004034001.htm
+
+
+name: VUE 模式组件
+state:no
+href:https://cn.vuejs.org/v2/examples/modal.html （https://jsfiddle.net/yyx990803/mwLbw11k/?utm_source=website&utm_medium=embed&utm_campaign=mwLbw11k）
+
+name: VUE 内嵌组件
+state:no
+href:https://cn.vuejs.org/v2/examples/select2.html （https://cn.vuejs.org/v2/examples/select2.html）
+
+name:Vue2.0实战项目(用户管理系统)
+state:no
+href:https://study.163.com/course/introduction/1004459013.htm
+
+
+name:VUE 2.x 实战项目
+state:no
+href:https://study.163.com/course/introduction/1005121011.htm
+
+name:VUE QQmusic
+state:no
+href:https://github.com/yuxiuting/Vue-qqMusic
+
+name:vue 官网例子
+state:no
+href:https://cn.vuejs.org/v2/cookbook/serverless-blog.html
+
+name:JS原生组件编写
+state:no
+href:https://dequeuniversity.com/resources/  总
+     https://dequeuniversity.com/library/aria/custom-controls/sf-shopping-cart
+     https://dequeuniversity.com/library/aria/date-pickers/sf-date-picker
+     https://dequeuniversity.com/library/aria/popups-dialogs/sf-modal-dialog
+     https://dequeuniversity.com/library/aria/sf-basic-patterns/sf-tooltip
+     https://dequeuniversity.com/library/aria/sf-basic-patterns/sf-tooltip-dialog
+
+
+name:原生 JS 实现帧动画库
+state:no
+href:https://www.imooc.com/learn/659
+
+
+name:Webpack
+state:no
+href:https://www.imooc.com/learn/802
+
+
+name:
+state:
+href:
+
